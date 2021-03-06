@@ -49,7 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshGahlot&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/HiteshGahlot">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=imkrrish&show_icons=true&theme=dark&line_height=27" alt="Hitesh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HiteshGahlot&show_icons=true&theme=dark&line_height=27" alt="Hitesh's github stats"/>
 </a>
 
 <div align="center">
